@@ -1,5 +1,5 @@
 import React from "react"
-import { MdContactEmergency } from "react-icons/md"
+
 
 const Contact =()=>{
     return(
